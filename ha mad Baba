@@ -249,9 +249,9 @@ if len(sys.argv) == 2:
 		print("\n [*] Author    :  ")
 		print(" [*] Team      :  \n")
 		print(" [ Sosial Medi  ] \n")
-		print(" [*] Facebook  : https://facebook.com/ ")
+		print(" [*] Facebook  : https:///https://www.facebook.com/Salmankhana55 ")
 		print(" [*] Instagram : https://instagram.com/ ")
-		print(" [*] YouTube   : https://youtube.com/ ")
+		print(" [*] YouTube   : https:/// ")
 		exit(" [*] GitHub    : https://github.com/ ")
 	else:
 		Main()
